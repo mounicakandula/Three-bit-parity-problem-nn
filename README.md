@@ -1,0 +1,1 @@
+# Solving three bit parity problem using Neural Networks in Machine Learning
